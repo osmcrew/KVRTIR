@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+
+nav {
+    background-color: lightblue;
+}
+
+header {
+    background-color: lightblue;
+}
+
+.link-nav {
+    color: black;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.link-header {
+    color: black;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+main p {
+    text-align: center;
+    font-size: large;
+}
+
+footer p {
+    font-size: medium;
+    text-align: center;
+}
+
+footer {
+    background-color: lightblue;
+}
+header {
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
+    padding: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 20px;
+}
+
+nav {
+    text-align: center;
+}
+
+img src {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    text-align: center;
+}
